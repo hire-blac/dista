@@ -1,0 +1,15 @@
+.mid {
+  /* text-shadow: 1px 1px 2px black; */
+}
+.mid img {
+  display: inline-block;
+  height: 250px;
+  margin: 10px auto;
+}
+.link-card {
+  padding: 10px;
+  background: rgba(0, 0, 0,0.7);
+}
+.link-card:hover {
+  color: blue;
+}
